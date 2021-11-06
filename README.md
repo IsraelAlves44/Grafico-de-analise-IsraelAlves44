@@ -1,7 +1,7 @@
 ### Olá, eu sou o Israel 👋
  ##
 - 🔭 Estudando Front-End
-- 🌱 Estudando ReactJs
+- 🌱 Cursando Ciência da Computação
   ##
   
 <div align="center">
