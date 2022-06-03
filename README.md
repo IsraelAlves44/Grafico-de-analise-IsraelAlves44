@@ -1,7 +1,7 @@
 ### Olá, eu sou o Israel 👋
  ##
 - 🔭 Estudando C, C#, C++, Angular2+, Javascript, Python.
-- 🌱 Cursando Ciência da Computação
+- 🌱 Cursando Ciência da Computação | UNIFESP
   ##
   
 <div align="center">
