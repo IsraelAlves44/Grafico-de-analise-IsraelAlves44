@@ -1,6 +1,6 @@
 ### Olá, eu sou o Israel 👋
  ##
-- 🔭 Estudando C, C#, C++, Angular2+, Javascript, Python.
+- 🔭 Estudando C, C#, C++, Angular2+, Javascript, Python, React e NextJS
 - 🌱 Cursando Ciência da Computação | UNIFESP
   ##
   
